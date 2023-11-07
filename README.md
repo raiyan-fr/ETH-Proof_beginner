@@ -1,2 +1,2 @@
-# solidity Tutorials
-From basics to expert
+# ETH Proof Beginner 
+Bunch of basic solidity smart contracts for understanding
